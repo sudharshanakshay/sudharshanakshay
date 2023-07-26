@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="./githubFlow.try2.png" alt="My Progress"/>
+<img src="./githubFlow.png" alt="My Progress"/>
 
 <div>
 <a href="">
