@@ -1,5 +1,32 @@
-### Hi there 👋
+# Hi there, I'm Sudharshan Akshay 
 
+I'm a possionate Developer with experience in React, Angular, Flutter. Welcome to my Github profile!
+
+- 🔭 I’m currently working on 'Fraction' a flutter project
+- 🌱 I’m currently learning State management in Flutter applications.
+- 💬 Ask me about JavaScript frameworks (React, Angular).
+- 📫 How to reach me: [will be registering for social media soon! 😆].
+
+## Projects
+
+Here are some of the projects I've worked on:
+
+- [Fraction](): An shared Expense management app.
+- [MakePassword](https://sudharshanakshay.github.io/makepassword/): A Random password generating app.
+- [Home Automation](https://sudharshanakshay.github.io/The_lazy_Code/): IR- remote to control 4 channel relay.
+- [InwardOutward](https://sudharshanakshay.github.io/inwardoutward/): Keep digital logs of all the Incoming & Outgoing Post in an Organisation.
+
+## Github Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sudharshanakshay&show_icon=true&count_private=true)
+
+## Connect with Me
+
+Let's connect and chat! You can find me on:
+- [Twitter]()
+- [LinkedIn]()
+
+<!--
 <img src="./githubFlow.png" alt="My Progress"/>
 
 <div>
@@ -11,17 +38,6 @@
 </a>
 </div>
 
-<!--
-**sudharshanakshay/sudharshanakshay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
