@@ -19,6 +19,7 @@ Here are some of the projects I've worked on:
 ## Github Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sudharshanakshay&show_icon=true&count_private=true)
+![My Streaks](https://github-readme-streak-stats.herokuapp.com/?user=sudharshanakshay)
 
 ## Connect with Me
 
