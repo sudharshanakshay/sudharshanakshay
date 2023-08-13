@@ -13,7 +13,7 @@ Here are some of the projects I've worked on:
 
 - [Fraction](): An shared Expense management app.
 - [MakePassword](https://sudharshanakshay.github.io/makepassword/): A Random password generating app.
-- [Home Automation](https://sudharshanakshay.github.io/The_lazy_Code/): IR- remote to control 4 channel relay.
+- [Smart Home Project](https://sudharshanakshay.github.io/The_lazy_Code/): IR- remote to control 4 channel relay.
 - [InwardOutward](https://sudharshanakshay.github.io/inwardoutward/): Keep digital logs of all the Incoming & Outgoing Post in an Organisation.
 
 ## Github Stats
@@ -23,7 +23,6 @@ Here are some of the projects I've worked on:
 ## Connect with Me
 
 Let's connect and chat! You can find me on:
-- [Twitter]()
 - [LinkedIn]()
 
 <!--
