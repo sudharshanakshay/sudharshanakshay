@@ -1,11 +1,11 @@
-# Hi there, I'm Sudharshan Akshay 
+L# Hi there, I'm Sudharshan Akshay 
 
 I'm a possionate Developer with experience in React, Angular, Flutter. Welcome to my Github profile!
 
 - 🔭 I’m currently working on 'Fraction' a flutter project
 - 🌱 I’m currently learning State management in Flutter applications.
 - 💬 Ask me about JavaScript frameworks (React, Angular).
-- 📫 How to reach me: [will be registering for social media soon! 😆].
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sudharshan-akshay-0230ab174).
 
 ## Projects
 
