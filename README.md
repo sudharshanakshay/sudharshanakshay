@@ -1,4 +1,4 @@
-L# Hi there, I'm Sudharshan Akshay 
+# Hi there, I'm Sudharshan Akshay 
 
 I'm a possionate Developer with experience in React, Angular, Flutter. Welcome to my Github profile!
 
