@@ -24,8 +24,7 @@ Here are some of the projects I've worked on:
 ## Connect with Me
 
 Let's connect and chat! You can find me on:
-- [LinkedIn]()
-
+- [LinkedIn](https://www.linkedin.com/in/sudharshan-akshay-0230ab174)
 <!--
 <img src="./githubFlow.png" alt="My Progress"/>
 
