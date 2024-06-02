@@ -11,7 +11,7 @@ I'm a possionate Developer with experience in React, Angular, Flutter. Welcome t
 
 Here are some of the projects I've worked on:
 
-- [Fraction](https://github.com/sudharshanakshay/fraction/wiki): An shared Expense management app.
+- [Fraction](https://sudharshanakshay.github.io/fraction/): An shared Expense management app.
 - [MakePassword](https://sudharshanakshay.github.io/makepassword/): A Random password generating app.
 - [Smart Home Project](https://sudharshanakshay.github.io/The_lazy_Code/): IR- remote to control 4 channel relay.
 - [InwardOutward](https://sudharshanakshay.github.io/inwardoutward/): Keep digital logs of all the Incoming & Outgoing Post in an Organisation.
