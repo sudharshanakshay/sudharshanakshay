@@ -5,7 +5,7 @@ I'm a possionate Developer with experience in React, Angular, Flutter. Welcome t
 - 🔭 I’m currently working on 'Fraction' a flutter project
 - 🌱 I’m currently learning State management in Flutter applications.
 - 💬 Ask me about JavaScript frameworks (React, Angular).
-- 📫 How to reach me: [will be registering for social media soon! 😆].
+- 📫 How to reach me: [Signal @ cz2vFSEI.48].
 
 ## Projects
 
